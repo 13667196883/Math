@@ -1,0 +1,14 @@
+git add 文件列表
+git commit -m "评论备注"
+#在本地增加和提交后再到github上：
+#将本地的提交push到github上
+git push -u origin master
+
+
+
+
+
+
+
+
+
